@@ -11,9 +11,9 @@
 - This project uses stemming for both the query and the documents. 
 - All of the extra credit was attempted, including stemming, writing inverted list to disc along with the additional files it entails for indexing.
 Specific commands:
-```bashpython3 read_index.py parse```
-```bash python3 read_index.py --term asparagus```
-```bash python3 read_index.py --doc ap890101-0001```
+```python3 read_index.py parse```
+```python3 read_index.py --term asparagus```
+```python3 read_index.py --doc ap890101-0001```
 
 # Information Retrieval - Assignment 2 (Retrieval)
 
@@ -24,6 +24,6 @@ Specific commands:
 - The extra credit was attempted, and it can be run by entering: python3 LM-unigram.py <query list text file> <output file>
 - The other part can be run by entering: python3 LM-bigram.py <query list text file> <output file>
 Specific commands:
-```bash python3 VSM.py query_list.txt output.txt```
-```bash python3 LM-unigram.py query_list.txt output2.txt```
-```bash python3 LM-bigram.py query_list.txt output3.txt```
+```python3 VSM.py query_list.txt output.txt```
+```python3 LM-unigram.py query_list.txt output2.txt```
+```python3 LM-bigram.py query_list.txt output3.txt```
