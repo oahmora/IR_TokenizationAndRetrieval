@@ -24,6 +24,6 @@ Specific commands:
 - The extra credit was attempted, and it can be run by entering: python3 LM-unigram.py <query list text file> <output file>
 - The other part can be run by entering: python3 LM-bigram.py <query list text file> <output file>
 Specific commands:
-```python3 VSM.py query_list.txt output.txt```
-```python3 LM-unigram.py query_list.txt output2.txt```
-```python3 LM-bigram.py query_list.txt output3.txt```
+- ```python3 VSM.py query_list.txt output.txt```
+- ```python3 LM-unigram.py query_list.txt output2.txt```
+- ```python3 LM-bigram.py query_list.txt output3.txt```
